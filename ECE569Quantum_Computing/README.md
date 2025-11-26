@@ -35,7 +35,7 @@ We implemented a hybrid classical-quantum approach, utilizing:
 | File Name | Description | Key Content |
 | :--- | :--- | :--- |
 | `Final_Project_hybrid.ipynb` | **Primary Codebase (Jupyter Notebook)** | Contains the Hamiltonian formulation, QAOA/VQE implementation, objective function, and the results from the hybrid optimization runs (D-Wave's Ocean SDK and Qiskit components were utilized). |
-| `CSC_ECE569_FinalProject_Presentation.pptx` | **Final Presentation Slides** | Detailed slides outlining the problem, encoding rules, classical modeling, quantum implementation steps, comparison of optimizer results, and final conclusions. |
+| `CSC_ECE569_FinalProject_Presentation.pdf` | **Final Presentation Slides** | Detailed slides outlining the problem, encoding rules, classical modeling, quantum implementation steps, comparison of optimizer results, and final conclusions. |
 | `ECE_569_Project_Description.pdf` | **Project Proposal** | Outlines the initial problem description, proposed methodology (QAOA, VQE), and project milestones. |
 
 ---
