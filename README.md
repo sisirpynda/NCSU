@@ -1,2 +1,2 @@
 # NCSU
-my Grad school projecs
+my Grad school projects
