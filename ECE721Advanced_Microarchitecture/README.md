@@ -32,6 +32,16 @@ A critical component of the architecture was the **Value Prediction Queue**, whi
 * **ISA:** RISC-V
 * **Concepts:** Speculative Execution, Stride Prediction, Out-of-Order Execution, Design Space Exploration.
 
+## Filed edited
+* dispatch.cc
+* renamer.cc
+* register_read.cc
+* writeback.cc
+* rename.cc
+* retire.cc
+* renamer.h
+* squash.h
+
 ---
 
 ### Academic Integrity & Source Code
