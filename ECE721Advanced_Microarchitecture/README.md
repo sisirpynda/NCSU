@@ -42,7 +42,9 @@ A critical component of the architecture was the **Value Prediction Queue**, whi
 * renamer.h
 * squash.h
 
+The lines of code added by me are annotated with **FIX_ME #<fix-number>** 
+
 ---
 
 ### Academic Integrity & Source Code
-*In accordance with the academic integrity policy for ECE 721, the source code for this project is hosted in a [private repository](https://github.com/sisirpynda/NCSU_pvt/tree/3726cca04792b3f31e468a503d476219179cde63). The instructor prohibits the public distribution of project code to prevent unauthorized collaboration and protect copyrighted simulator frameworks. Access to the private repository can be provided to recruiters or hiring managers upon request.*
+*In accordance with the academic integrity policy for ECE 721, the source code (including the spec-document) for this project is hosted in a [private repository](https://github.com/sisirpynda/NCSU_pvt/tree/3726cca04792b3f31e468a503d476219179cde63). The instructor prohibits the public distribution of project code to prevent unauthorized collaboration and protect copyrighted simulator frameworks. Access to the private repository can be provided to recruiters or hiring managers upon request.*
