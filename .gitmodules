@@ -1,0 +1,3 @@
+[submodule "NCSU_pvt"]
+	path = NCSU_pvt
+	url = https://github.com/sisirpynda/NCSU_pvt
