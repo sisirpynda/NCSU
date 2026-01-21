@@ -42,7 +42,7 @@ A critical component of the architecture was the **Value Prediction Queue**, whi
 * renamer.h
 * squash.h
 
-The lines of code added by me are annotated with **FIX_ME #<fix-number>** 
+The lines of code added by me are annotated with " **FIX_ME #<fix-number>** "
 
 ---
 
